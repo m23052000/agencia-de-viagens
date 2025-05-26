@@ -1,0 +1,7 @@
+repository\DestinoRepository.class
+agenciaViagens\AgenciaViagensApplication.class
+model\Destino.class
+service\DestinoService.class
+controller\DestinoController.class
+repository\base\AbstractCrudRepository.class
+service\base\AbstractBaseService.class
